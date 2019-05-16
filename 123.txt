@@ -1,3 +1,6 @@
 sdasd
 sdds
+<<<<<<< HEAD
 sda
+=======
+>>>>>>> dev
