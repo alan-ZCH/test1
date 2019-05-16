@@ -3,5 +3,7 @@ public class MyTest {
         System.out.println("test");
         System.out.println("my");
         System.out.println("test1");
+        System.out.println("123");
+        System.out.println("1");
     }
 }
